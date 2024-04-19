@@ -12,10 +12,10 @@ const char* ssid = "UW MPSK";
 const char* password = "}EnHv76D%V";
 
 // Firebase project credentials
-#define DATABASE_URL "https://techin514-final-default-rtdb.firebaseio.com/"
-#define API_KEY "AIzaSyBv3VISnijb9p1HwbtUMjp8YBggXMDjT9I"
-#define USER_EMAIL "wyf_testing1@gmail.com"
-#define USER_PASSWORD "123456"
+#define DATABASE_URL "xxxxxxxx"
+#define API_KEY "xxxxxxx"
+#define USER_EMAIL "xxxx@gmail.com"
+#define USER_PASSWORD "xxxxx"
 
 // Firebase Data object
 FirebaseData firebaseData;
