@@ -9,7 +9,7 @@
 
 // WiFi credentials
 const char* ssid = "UW MPSK";
-const char* password = "}EnHv76D%V";
+const char* password = "xxxxx;
 
 // Firebase project credentials
 #define DATABASE_URL "xxxxxxxx"
